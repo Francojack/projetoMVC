@@ -24,3 +24,29 @@ C:\Users\Lab. de Software\Desktop\ds2\obj\Debug\net6.0\refint\ds2.dll
 C:\Users\Lab. de Software\Desktop\ds2\obj\Debug\net6.0\ds2.pdb
 C:\Users\Lab. de Software\Desktop\ds2\obj\Debug\net6.0\ds2.genruntimeconfig.cache
 C:\Users\Lab. de Software\Desktop\ds2\obj\Debug\net6.0\ref\ds2.dll
+C:\Users\Usuario\Desktop\ds2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\ds2\bin\Debug\net6.0\appsettings.json
+C:\Users\Usuario\Desktop\ds2\bin\Debug\net6.0\ds2.staticwebassets.runtime.json
+C:\Users\Usuario\Desktop\ds2\bin\Debug\net6.0\ds2.exe
+C:\Users\Usuario\Desktop\ds2\bin\Debug\net6.0\ds2.deps.json
+C:\Users\Usuario\Desktop\ds2\bin\Debug\net6.0\ds2.runtimeconfig.json
+C:\Users\Usuario\Desktop\ds2\bin\Debug\net6.0\ds2.dll
+C:\Users\Usuario\Desktop\ds2\bin\Debug\net6.0\ds2.pdb
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\ds2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\ds2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\ds2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\ds2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\ds2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\ds2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\ds2.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\ds2.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\scopedcss\bundle\ds2.styles.css
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\scopedcss\projectbundle\ds2.bundle.scp.css
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\ds2.dll
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\refint\ds2.dll
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\ds2.pdb
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\ds2.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ds2\obj\Debug\net6.0\ref\ds2.dll

@@ -2,7 +2,23 @@
     ViewData["Title"] = "Home Page";
 }
 
+@{
+    var x = "";
+    if (DateTime.Now.Hour > 18)
+    {
+        x= "Boa Noite";
+    } else if (DateTime.Now.Hour <12){
+        x = "Bom Dia!!";
+    }else{
+        x = "Boa Tarde!";
+    }
+}
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
+    <h1 class="display-4">Bem Vindo!!</h1>
+    <h6>@x</h6>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+<div class="text-center">
+    <img src="https://gdartes.com.br/wp-content/uploads/2022/04/a-triste-realidade-da-industria-de-mangas-e-animes.jpeg" alt="anime">
+</div>
+
